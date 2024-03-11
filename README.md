@@ -10,4 +10,9 @@ Complex Network course and implementation of its academic exercises (Tarbiat Mod
 ## Part2  
 * Implementation of different networks with Centellities.
 
+## Part3 
+* SpectralClustering on FaceBook & KaratehClub Networks.
+
+
+
 
