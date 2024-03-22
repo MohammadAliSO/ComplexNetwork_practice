@@ -13,6 +13,8 @@ Complex Network course and implementation of its academic exercises (Tarbiat Mod
 ## Part3 
 * SpectralClustering on FaceBook & KaratehClub Networks.
 
-
+## Part4  
+* Given image a) a.png , separate foregrounⅾ and baⅽkgrounⅾ using clustering. Then compare with image b (b.png) and report the accuracy.
+(Hint: Pixels are your data and its features are the values in them. Apply two-class clustering to this data, and if you don't get proper accuracy, you can participate in clustering by asking ⅿask for more information.
 
 
